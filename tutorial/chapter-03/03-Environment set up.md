@@ -62,7 +62,7 @@ If you're seeing this message, that means you haven't yet compiled your ClojureS
 Please run  lein figwheel  to start the ClojureScript compiler and reload the page.
 ```
 
-We can see a response, that means our backend part is working. And that message says that we need to compile our clientside code to make it work. Let's run the suggestet command `lein figwheel` in a new terminal window and see what will happen. If everything went fine after refreshing the browser we should see a page with that phrase:
+We can see a response, that means our backend part is working. And that message says that we need to compile our clientside code to make it work. Let's run the suggested command `lein figwheel` in a new terminal window and see what will happen. If everything went fine after refreshing the browser we should see a page with that phrase:
 
 ```
 Congratulations, your Luminus site is ready!
